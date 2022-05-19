@@ -12,6 +12,23 @@
   flex-direction: column;
 }
 
+
+.top{
+  height: 50%;
+}
+.timer{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom {
+  height: 50%;
+}
 .pyramid {
   width: 25%;
   display: flex;
