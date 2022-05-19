@@ -1,0 +1,17 @@
+.app{
+  height: 100vh;
+  display: flex;
+  background-color: #020230;
+  color: #fff;
+}
+
+.main {
+  width: 75%;
+  background: url("https://i.ytimg.com/vi/yQbJRGs0fy8/maxresdefault.jpg") center;
+  display: flex;
+  flex-direction: column;
+}
+
+.pyramid {
+  width: 25%;
+}
